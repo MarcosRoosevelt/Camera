@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/21 18:49:16.914,=C:\Users\Soliti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/21 18:57:40.417,=C:\Users\Soliti\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/21 19:01:52.600,C:\Users\Soliti\Documents\ZMarcão\UnitPrincipal.fmx=C:\Users\Soliti\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/21 19:01:52.600,C:\Users\Soliti\Documents\ZMarcão\UnitPrincipal.pas=C:\Users\Soliti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/21 19:02:09.240,C:\Users\Soliti\Documents\ZMarcão\dale\Project1.dproj=C:\Users\Soliti\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/21 19:02:31.002,=C:\Users\Soliti\Documents\ZMarcão\dale\Unit2.pas</Transaction>
+    <Transaction>2021/01/21 19:04:22.263,C:\Users\Soliti\Documents\ZMarcão\UnitCamera.pas=C:\Users\Soliti\Documents\ZMarcão\dale\Unit2.pas</Transaction>
+    <Transaction>2021/01/21 19:04:22.263,C:\Users\Soliti\Documents\ZMarcão\UnitCamera.fmx=C:\Users\Soliti\Documents\ZMarcão\dale\Unit2.fmx</Transaction>
+    <Transaction>2021/01/21 20:08:15.345,=C:\Users\Soliti\Documents\ZMarcão\u99Permissions.pas</Transaction>
+    <Transaction>2021/01/21 20:40:20.498,C:\Users\Soliti\Documents\opa\UnitPrincipal.fmx=C:\Users\Soliti\Documents\ZMarcão\UnitPrincipal.fmx</Transaction>
+    <Transaction>2021/01/21 20:40:20.498,C:\Users\Soliti\Documents\opa\UnitPrincipal.pas=C:\Users\Soliti\Documents\ZMarcão\UnitPrincipal.pas</Transaction>
+    <Transaction>2021/01/21 20:41:00.115,C:\Users\Soliti\Documents\opa\UnitCamera.fmx=C:\Users\Soliti\Documents\ZMarcão\UnitCamera.fmx</Transaction>
+    <Transaction>2021/01/21 20:41:00.115,C:\Users\Soliti\Documents\opa\UnitCamera.pas=C:\Users\Soliti\Documents\ZMarcão\UnitCamera.pas</Transaction>
+    <Transaction>2021/01/21 20:41:27.290,C:\Users\Soliti\Documents\opa\Project1.dproj=C:\Users\Soliti\Documents\ZMarcão\dale\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android64="RQ8M80AKZQX" Android=""/>
+  </ActiveMobileDevice>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="UnitPrincipal.pas"/>
+    <File Path="UnitPrincipal.fmx"/>
+    <File Path="UnitCamera.pas"/>
+    <File Path="UnitCamera.fmx"/>
+    <File Path="..\..\Documents"/>
+    <File Path="..\ZMarcão"/>
+    <File Path="..\ZMarcão\u99Permissions.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
